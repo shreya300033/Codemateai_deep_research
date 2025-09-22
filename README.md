@@ -1,4 +1,4 @@
-# 📚 SmartDoc Explorer
+# 📚 Deep Research AI
 
 A sophisticated AI-powered research platform that can search, analyze, and synthesize information from large-scale data sources using local embeddings and multi-step reasoning.
 
